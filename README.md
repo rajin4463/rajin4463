@@ -1,4 +1,8 @@
-### Hi there 👋
+# Tech Stack
+![html5](https://img.shields.io/badge/html5-red?style=flat&logo=html5&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-green?style=flat&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Docker](https://img.shields.io/badge/docker-blue?style=flat&logo=docker&logoColor=white)
 
 <!--
 **rajin4463/rajin4463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
