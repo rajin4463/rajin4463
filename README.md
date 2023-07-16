@@ -6,6 +6,8 @@
 ![C#](https://img.shields.io/badge/C%23-green?style=flat&logo=csharp&logoColor=white)
 ![python](https://img.shields.io/badge/python-darkblue?style=flat&logo=python&logoColor=white)
 ![nodejs](https://img.shields.io/badge/nodejs-dark?style=flat&logo=nodeJS&logoColor=white)
+![expressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 ![mongodb](https://img.shields.io/badge/mongodb-white?style=flat&logo=mongodb&logoColor=black)
 ![Firebase](https://img.shields.io/badge/firebase-dark?style=flat&logo=firebase&logoColor=white)
 ![appwrite](https://img.shields.io/badge/appwrite-darkred?style=flat&logo=appwrite&logoColor=white)
