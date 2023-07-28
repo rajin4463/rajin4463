@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rajin Sandira</h1>
-<h3 align="center">A passionate Cyber Secuirty Student.</h3>
+<h1 align="center">Hi There 👋, I'm Rajin Sandira</h1>
+<h3 align="center">A Passionate Cyber Secuirty Student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajin4463&label=Profile%20views&color=0e75b6&style=flat" alt="rajin4463" /> </p>
 
