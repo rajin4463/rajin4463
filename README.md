@@ -1,33 +1,48 @@
-# Tech Stack
-![html5](https://img.shields.io/badge/html5-red?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-blue?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![vueJS](https://img.shields.io/badge/vuejs-lightgreen?style=flat&logo=vue&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-green?style=flat&logo=csharp&logoColor=white)
-![python](https://img.shields.io/badge/python-darkblue?style=flat&logo=python&logoColor=white)
-![nodejs](https://img.shields.io/badge/nodejs-dark?style=flat&logo=nodeJS&logoColor=white)
-![expressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-![mongodb](https://img.shields.io/badge/mongodb-white?style=flat&logo=mongodb&logoColor=black)
-![Firebase](https://img.shields.io/badge/firebase-dark?style=flat&logo=firebase&logoColor=white)
-![appwrite](https://img.shields.io/badge/appwrite-darkred?style=flat&logo=appwrite&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-blue?style=flat&logo=docker&logoColor=white)
+<h1 align="center">Hi 👋, I'm Rajin Sandira</h1>
+<h3 align="center">A passionate Cyber Secuirty Student.</h3>
 
-# GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rajin4463&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajin4463&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajin4463&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<!--
-**rajin4463/rajin4463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajin4463&label=Profile%20views&color=0e75b6&style=flat" alt="rajin4463" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [a script for harderning Ubuntu 22.04 LTS with my team](https://github.com/rajin4463/centinal)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rajin-sandira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajin-sandira" height="30" width="40" /></a>
+
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<span style="margin: 0 15px;"><span style="padding:25px 1px 0px;width:5px;height:20px;background-color:white;"></span></span>
+ <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+ <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>
+ <span style="background-color:white;display:inline-flex;padding:5px 5px 0 5px;border-radius:10px;"><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></span>
+ <span style="background-color:white;display:inline-flex;padding:5px 5px 0 5px;border-radius:10px;"><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a></span>
+<span style="margin: 0 15px;"><span style="padding:25px 1px 0px;width:5px;height:20px;background-color:white;"></span></span>
+  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+ <span style="background-color:white;display:inline-flex;padding:5px 5px 0 5px;border-radius:10px;"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a></span>
+ <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<span style="margin: 0 15px;"><span style="padding:25px 1px 0px;width:5px;height:20px;background-color:white;"></span></span>
+ <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+ <span style="background-color:white;display:inline-flex;padding:5px 5px 0 5px;border-radius:10px;"><a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a></span>
+ <span style="margin: 0 15px;"><span style="padding:25px 1px 0px;width:5px;height:20px;background-color:white;"></span></span>
+ <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+ </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajin4463&show_icons=true&theme=dark&locale=en&layout=compact" alt="rajin4463" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajin4463&show_icons=true&theme=dark&locale=en" alt="rajin4463" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajin4463&theme=dark" alt="rajin4463" /></p>
+
