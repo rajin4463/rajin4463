@@ -37,6 +37,7 @@
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="readme-assets/bash.svg" alt="bash" width="40" height="40"/> </a>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+ ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
  </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajin4463&show_icons=true&theme=dark&locale=en&layout=compact" alt="rajin4463" /></p>
