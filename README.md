@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Rajin Sandira</h1>
-<h3 align="center">A Passionate Cyber Secuirty Student.</h3>
+<h3 align="center">A Passionate Cyber Secuirty Student & the creator of VIPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajin4463&label=Profile%20views&color=0e75b6&style=flat" alt="rajin4463" /> </p>
 
@@ -44,5 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajin4463&show_icons=true&theme=dark&locale=en" alt="rajin4463" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajin4463&theme=dark" alt="rajin4463" /></p>
 
