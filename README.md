@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajin4463&label=Profile%20views&color=0e75b6&style=flat" alt="rajin4463" /> </p>
 
-- 🌱 I’m currently learning **GO & Lua**
-
 - 📝 I regularly write articles on [https://www.rvault.cc/](https://www.rvault.cc/)
 
 - 📫 You can reach me through LinkedIn or through my blog [https://www.rvault.cc/](https://www.rvault.cc/)
