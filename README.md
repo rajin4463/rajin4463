@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://www.rvault.cc/](https://www.rvault.cc/)
 
-- 📫 You can reach me through LinkedIn or through my blog [https://www.rvault.cc/](https://www.rvault.cc/)
+- 📫 You can reach me through LinkedIn, BlueSky or through my blog [https://www.rvault.cc/](https://www.rvault.cc/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
